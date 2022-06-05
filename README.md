@@ -4,6 +4,11 @@
 - :heart: I love my cats :cat2: and the :octocat:
 - :coffee: I'm a coffee aficionado and king of BBQ 🥩
 
+##The feel when your code works the first time 
+https://nekogami.moe/gify/babygit.gif
+![Gif](https://nekogami.moe/gify/babygitlow.gif)
+
+
 
 <!---
 Nekogami-dono/Nekogami-dono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
