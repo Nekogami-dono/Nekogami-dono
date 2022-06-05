@@ -5,8 +5,7 @@
 - :coffee: I'm a coffee aficionado and king of BBQ 🥩
 
 ##The feel when your code works the first time 
-https://nekogami.moe/gify/babygit.gif
-![Gif](https://nekogami.moe/gify/babygitlow.gif)
+![Gif](babygit.gif)
 
 
 
