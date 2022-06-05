@@ -7,7 +7,7 @@
 ##The feel when your code works the first time 
 
 
-![Gif](babygit.gif)
+![Gif](babygitlow.gif)
 
 
 
