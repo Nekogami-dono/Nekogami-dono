@@ -4,7 +4,7 @@
 - :heart: I love my cats :cat2: and the :octocat:
 - :coffee: I'm a coffee aficionado and king of BBQ 🥩
 
-##The feel when your code works the first time 
+## The feel when your code works the first time 
 
 
 ![Gif](babygitlow.gif)
